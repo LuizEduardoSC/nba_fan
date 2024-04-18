@@ -7,7 +7,7 @@ Projeto para estudo de tecnologias web como: HTML e CSS.
 
 Apenas acesse o link para visualizar o site em funcionamento.
 
-https://site-gamezone.vercel.app/
+https://nba-fan.vercel.app/
 
 
 ### 🔧 Instalação
