@@ -1,4 +1,4 @@
-# Loja de Games - Game Zone
+# Chivago Bull - Fan site
 
 Projeto para estudo de tecnologias web como: HTML e CSS.
 
