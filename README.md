@@ -1,4 +1,4 @@
-# Chivago Bull - Fan site
+# Chicago Bulls - Fan site
 
 Projeto para estudo de tecnologias web como: HTML e CSS.
 
